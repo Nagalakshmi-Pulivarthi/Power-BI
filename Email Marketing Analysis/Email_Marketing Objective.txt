@@ -1,0 +1,9 @@
+Main Objectives - Email Marketing analysis
+1.People Signed up by Gender
+2. Active user Status
+3. Poeple signed up by Marital Status
+4.People Signed up by Living Status
+5.People signed up by city
+6.People Signed by State
+7.People Signed by Year
+8.People signed up by Time
