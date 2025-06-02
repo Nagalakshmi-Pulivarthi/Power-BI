@@ -8,12 +8,13 @@ This Power BI dashboard analyzes email marketing enrollments from 2017 to 2020, 
 Time-Based Analysis: Dynamic Years Filter (2017–2020)
 
 ## Enrollment Insights: 
-Total enrollments, active vs. non-active members, and marital status trends
+Total enrollments, active vs. non-active members, and marital living status, a trends
 
 ## Geographic Trends: 
 Top 5 states and cities by enrollment
 
-Demographic Breakdown: Age hierarchy and peak enrollment time slots
+## Demographic Breakdown:
+Age hierarchy and peak enrollment time slots
 
 ## Interactivity
 All visualizations interact with the Years Filter, allowing seamless exploration of trends.
