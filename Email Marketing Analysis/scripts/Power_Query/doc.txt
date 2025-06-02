@@ -1,11 +1,19 @@
-Age Column- 
-Age Hierarchy
-Birth Year and Enrolled Year
-Total Enrollment per year
-Average age by Enrollment 
-Enrollment Rate By Year 
+Key Insights from Enrollment Data
+Age Column & Hierarchy: Categorized by birth year and enrollment year.
 
+Total Enrollment per Year: Displays annual enrollment trends.
 
-Final Take ways  Top Enrollments over the years is 2018 with 5040 
-For all the Enrollments Male count is dominating 
-though Singlies are highest enrollers for the 2017 from that onwards Couple with Children are more interstedted to see the Emails and advertaisemnrts.
+Average Age by Enrollment: Calculates the average age of enrollees.
+
+Enrollment Rate by Year: Measures enrollment growth over time.
+
+Final Takeaways
+Peak Enrollment Year: The highest enrollment occurred in 2018, with 5,040 enrollments.
+
+Gender Distribution: Male enrollees consistently outnumber females across all years.
+
+Enrollment Trends by Household Type:
+
+In 2017, singles had the highest enrollment numbers.
+
+From 2018 onward, couples with children became the most engaged group with emails and advertisements.
