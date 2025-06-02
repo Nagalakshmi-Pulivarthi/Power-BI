@@ -1,6 +1,8 @@
 Email Marketing Analysis - Power BI Dashboard
+
 Overview
 This Power BI dashboard analyzes email marketing enrollments from 2017 to 2020, providing insights into enrollment trends, member activity, demographics, and geographic distribution through interactive visualizations.
+
 
 Key Features
 Time-Based Analysis: Dynamic Years Filter (2017–2020)
@@ -13,6 +15,7 @@ Demographic Breakdown: Age hierarchy and peak enrollment time slots
 
 Interactivity
 All visualizations interact with the Years Filter, allowing seamless exploration of trends.
+
 
 Key Takeaways
 2018 had the highest enrollments (5,040).
