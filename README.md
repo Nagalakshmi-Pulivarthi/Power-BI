@@ -8,6 +8,7 @@ This Power BI dashboard analyzes email marketing enrollments from 2017 to 2020, 
 
 ## Peak Enrollment Year & Lowest Enrollment Year:
 2018 saw the highest number of enrollments (5,040), indicating strong engagement.
+
 2017, the starting year, had the least enrollments, likely due to initial adoption and awareness.
 
 ## Average Age of Enrollment:
