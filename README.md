@@ -5,24 +5,22 @@ This Power BI dashboard analyzes email marketing enrollments from 2017 to 2020, 
 
 
 ## Key Features
-Time-Based Analysis: Dynamic Years Filter (2017–2020)
 
-## Enrollment Insights: 
-Total enrollments, active vs. non-active members, and marital living status, a trends
+## Peak Enrollment Year & Lowest Enrollment Year:
+2018 saw the highest number of enrollments (5,040), indicating strong engagement.
+2017, the starting year, had the least enrollments, likely due to initial adoption and awareness.
 
-## Geographic Trends: 
-Top 5 states and cities by enrollment
+## Average Age of Enrollment:
+Identifies key demographics, helping refine email marketing strategies.
 
-## Demographic Breakdown:
-Age hierarchy and peak enrollment time slots
+## Gender Distribution:
+Male enrollments consistently surpass female enrollments across all years.
 
-## Interactivity
-All visualizations interact with the Years Filter, allowing seamless exploration of trends.
+## Enrollment Trends by Household Type:
 
+2017: Singles had the highest enrollment numbers.
 
-## Key Takeaways
-2018 had the highest enrollments (5,040).
+2018 onward: Couples with children became the most active and engaged group with emails and advertisements.
 
-Male enrollments dominate across all years.
-
-Singles led enrollments in 2017, but from 2018 onwards, couples with children became the most engaged group..
+## Activity by Marital Status:
+Married individuals with children are more active in the system compared to unmarried individuals or those without children, showing a higher response rate to marketing efforts.
