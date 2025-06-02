@@ -1,0 +1,16 @@
+EnrollmentRateByYear = 
+CALCULATE(
+    DIVIDE(
+        COUNTROWS(Email_Marketing),
+        COUNTROWS(ALL(Email_Marketing))
+    ) * 100,
+    NOT(ISBLANK(Email_Marketing[Enrolled Date])),
+    VALUES(Email_Marketing[Enrolled Year])
+)
+AverageAgeByEnrollmentYear = 
+CALCULATE(
+    INT(AVERAGE(Email_Marketing[Age])),
+    NOT(ISBLANK(Email_Marketing[Enrolled Date])
+))
+
+Total Enrollment = COUNT(Email_Marketing[Enrolled Date])
