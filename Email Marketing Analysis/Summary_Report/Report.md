@@ -3,7 +3,7 @@
 This project is my first step into Power BI, applying concepts from my PL-300 exam preparation to analyze a random dataset from YouTube. I took an independent approach—enriching missing city/state data with Python, structuring age hierarchies, and creating KPIs for deeper insights. This hands-on experience strengthened my skills in data preparation, modeling, visualization, and interactivity, helping me build a portfolio that showcases my technical problem-solving abilities.
 
 ## Data Preparation
-The raw dataset contained missing values in the City and State columns, which were processed using [Python](Email Marketing Analysis/scripts/City_generator.ipynb) to enhance geographic insights for analysis.
+The raw dataset contained missing values in the City and State columns, which were processed using [Python]([Email Marketing Analysis/scripts/City_generator.ipynb](https://github.com/Nagalakshmi-Pulivarthi/Power-BI/blob/main/Email%20Marketing%20Analysis/scripts/City_generator.ipynb)) to enhance geographic insights for analysis.
 
 Power Query was utilized to clean, transform, and structure the dataset, ensuring smooth integration into Power BI.
 
