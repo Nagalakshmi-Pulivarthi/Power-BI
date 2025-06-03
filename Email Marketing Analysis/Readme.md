@@ -16,7 +16,7 @@ DAX & Power Query Integration: Used for data transformation, dynamic KPI calcula
 ## Key Takeaways
 [2018](https://github.com/Nagalakshmi-Pulivarthi/Power-BI/blob/main/Email%20Marketing%20Analysis/Vizs/2018.PNG) had the highest enrollments (5,040).
 
-2017 had the lowest enrollments, marking the initial data collection year.
+[2017](https://github.com/Nagalakshmi-Pulivarthi/Power-BI/blob/main/Email%20Marketing%20Analysis/Vizs/2017.PNG) had the lowest enrollments, marking the initial data collection year.
 
 [Male](https://github.com/Nagalakshmi-Pulivarthi/Power-BI/blob/main/Email%20Marketing%20Analysis/Vizs/EnroolmentsOver%20the%20years.PNG) enrollments consistently dominate across all years.
 
