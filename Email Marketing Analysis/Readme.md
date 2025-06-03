@@ -29,4 +29,5 @@ Enrollment Trends by Household Type:
 Activity by Marital Status: Married individuals with children are more active than unmarried individuals or those without children.
 
 ## Detailed Report & Visuals
-📂 Full Report: Email Marketing Analysis Summary 📂 Screenshots: Dashboard Visualizations
+📂 Full Report: Email Marketing Analysis Summary
+📂 Screenshots: Dashboard Visualizations
