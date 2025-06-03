@@ -26,7 +26,7 @@ Top 5 States & Cities by Enrollment provide a regional breakdown.
 Python-based data enrichment was used to fill missing city and state values, enhancing location-based insights.
 
 4. Demographic & Behavioral Patterns
-Age Hierarchy: Breakdown of enrollments by birth year and enrollment year.
+[Age Hierarchy](https://github.com/Nagalakshmi-Pulivarthi/Power-BI/blob/main/Email%20Marketing%20Analysis/Vizs/Age.PNG): Breakdown of enrollments by birth year and enrollment year.
 
 Peak Enrollment Time Slots: Identifies optimal engagement periods for marketing campaigns.
 
