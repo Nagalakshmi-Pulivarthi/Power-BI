@@ -1,6 +1,6 @@
 # Email Marketing Analysis 
 
-This project marks my first step into Power BI. I applied concepts from my PL-300 exam preparation to independently analyze a random dataset from YouTube. Instead of following the original video’s approach, I took a different path—generating missing city/state data with Python, defining age hierarchies, and creating KPIs to uncover meaningful insights. This hands-on experience helped me solidify my understanding of data preparation, modeling, visualization, and interactivity, giving me a chance to build a portfolio piece that reflects my technical problem-solving skills.
+This project is my first step into Power BI, applying concepts from my PL-300 exam preparation to analyze a random dataset from YouTube. I took an independent approach—enriching missing city/state data with Python, structuring age hierarchies, and creating KPIs for deeper insights. This hands-on experience strengthened my skills in data preparation, modeling, visualization, and interactivity, helping me build a portfolio that showcases my technical problem-solving abilities.
 
 ## Data Preparation
 The raw dataset contained missing values in the City and State columns, which were processed using Python to enhance geographic insights for analysis.
