@@ -23,7 +23,7 @@ Enrollment behavior analyzed based on marital status, helping refine audience ta
 3. Geographic Analysis
 [Top 5 States & Cities](https://github.com/Nagalakshmi-Pulivarthi/Power-BI/blob/main/Email%20Marketing%20Analysis/Vizs/top%20statesand%20cities.PNG) by Enrollment provide a regional breakdown.
 
-Python-based data enrichment was used to fill missing city and state values, enhancing location-based insights.
+     Python-based data enrichment was used to fill missing city and state values, enhancing location-based insights.
 
 4. Demographic & Behavioral Patterns
 [Age Hierarchy](https://github.com/Nagalakshmi-Pulivarthi/Power-BI/blob/main/Email%20Marketing%20Analysis/Vizs/Age.PNG): Breakdown of enrollments by birth year and enrollment year.
