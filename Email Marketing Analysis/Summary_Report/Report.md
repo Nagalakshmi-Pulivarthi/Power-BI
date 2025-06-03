@@ -11,9 +11,9 @@ This project is my first step into Power BI, applying concepts from my PL-300 ex
 
 ## Key Features & Insights
 1. Time-Based Analysis
-Interactive Years Filter (2017–2020) for dynamic exploration.
+  Interactive Years Filter (2017–2020) for dynamic exploration.
 
-[Total Enrollments over the years](https://github.com/Nagalakshmi-Pulivarthi/Power-BI/blob/main/Email%20Marketing%20Analysis/Vizs/EnroolmentsOver%20the%20years.PNG) visualization highlights yearly trends and growth.
+  [Total Enrollments over the years](https://github.com/Nagalakshmi-Pulivarthi/Power-BI/blob/main/Email%20Marketing%20Analysis/Vizs/EnroolmentsOver%20the%20years.PNG) visualization highlights yearly trends and growth.
 
 2. Membership Status & Engagement
 [Active vs. Non-Active](https://github.com/Nagalakshmi-Pulivarthi/Power-BI/blob/main/Email%20Marketing%20Analysis/Vizs/Marital.PNG) Members segmented by enrollment year.
