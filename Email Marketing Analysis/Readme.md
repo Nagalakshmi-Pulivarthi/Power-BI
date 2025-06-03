@@ -1,4 +1,4 @@
-# Email Marketing Analysis - Power BI Dashboard
+# Email Marketing Analysis -[Power BI Dashboard](https://github.com/Nagalakshmi-Pulivarthi/Power-BI/blob/main/Email%20Marketing%20Analysis/Vizs/Email%20Marketing_Viz.pdf)
 
 This Power BI dashboard analyzes email marketing enrollments from 2017 to 2020, offering insights into enrollment trends, member activity, demographics, and geographic distributions. Interactive filtering enhances data exploration for strategic decision-making.
 
