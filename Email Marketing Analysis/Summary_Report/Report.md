@@ -3,11 +3,11 @@
 This project is my first step into Power BI, applying concepts from my PL-300 exam preparation to analyze a random dataset from YouTube. I took an independent approach—enriching missing city/state data with Python, structuring age hierarchies, and creating KPIs for deeper insights. This hands-on experience strengthened my skills in data preparation, modeling, visualization, and interactivity, helping me build a portfolio that showcases my technical problem-solving abilities.
 
 ## Data Preparation
-The raw dataset contained missing values in the City and State columns, which were processed using [Python](https://github.com/Nagalakshmi-Pulivarthi/Power-BI/blob/main/Email%20Marketing%20Analysis/scripts/City_generator.ipynb) to enhance geographic insights for analysis.
+* The raw dataset contained missing values in the City and State columns, which were processed using [Python](https://github.com/Nagalakshmi-Pulivarthi/Power-BI/blob/main/Email%20Marketing%20Analysis/scripts/City_generator.ipynb) to enhance geographic insights for analysis.
 
-Power Query was utilized to clean, transform, and structure the dataset, ensuring smooth integration into Power BI.
+* Power Query was utilized to clean, transform, and structure the dataset, ensuring smooth integration into Power BI.
 
-[DAX](https://github.com/Nagalakshmi-Pulivarthi/Power-BI/blob/main/Email%20Marketing%20Analysis/scripts/Power_Query/doc.txt) formulas were implemented to create key performance measures, including total enrollments per year, average age of enrollment, dynamic filters for marital status, and interactive KPI calculations for engagement trends.
+* [DAX](https://github.com/Nagalakshmi-Pulivarthi/Power-BI/blob/main/Email%20Marketing%20Analysis/scripts/Power_Query/doc.txt) formulas were implemented to create key performance measures, including total enrollments per year, average age of enrollment, dynamic filters for marital status, and interactive KPI calculations for engagement trends.
 
 ## Key Features & Insights
 1. Time-Based Analysis
