@@ -7,7 +7,7 @@ The raw dataset contained missing values in the City and State columns, which we
 
 Power Query was utilized to clean, transform, and structure the dataset, ensuring smooth integration into Power BI.
 
-DAX formulas were implemented to create key performance measures, including total enrollments per year, average age of enrollment, dynamic filters for marital status, and interactive KPI calculations for engagement trends.
+[DAX](https://github.com/Nagalakshmi-Pulivarthi/Power-BI/blob/main/Email%20Marketing%20Analysis/scripts/Power_Query/doc.txt) formulas were implemented to create key performance measures, including total enrollments per year, average age of enrollment, dynamic filters for marital status, and interactive KPI calculations for engagement trends.
 
 ## Key Features & Insights
 1. Time-Based Analysis
