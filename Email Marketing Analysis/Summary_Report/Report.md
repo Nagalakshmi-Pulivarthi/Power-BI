@@ -52,10 +52,14 @@ Enrollment Trends by Household Type:
 
 Activity by Marital Status: Married individuals with children are significantly more active compared to unmarried individuals or those without children, showing a higher response rate to email marketing efforts.
 
-## What we can do a more research with the extra columns/data 
-Refine KPI measures for deeper insights into engagement trends.
+### What’s Next?
+Enhancing KPI measures for deeper engagement insights.
 
-Integrate sentiment analysis to evaluate responses to email campaigns.
+Expanding geographic analysis, if additional location data is available.
 
-Apply predictive analytics to forecast future enrollment trends.
+Exploring sentiment analysis for email campaign effectiveness (requires user interaction data).
+
+Applying predictive analytics for enrollment trend forecasting (requires more historical and behavioral data).
+
+📌 Currently, the dataset does not contain enough information for sentiment analysis, predictive modeling, or advanced geographic trends. However, if we introduce additional columns—such as user feedback, email interaction metrics, and extended historical data—we can unlock even richer insights for future analysis.
 
