@@ -5,7 +5,7 @@ This Power BI dashboard analyzes email marketing enrollments from 2017 to 2020, 
 ## Key Features
 Years Filter (2017–2020): Allows dynamic trend analysis.
 
-Enrollment Metrics: Total enrollments per year, active vs. non-active members, and marital status insights.
+Enrollment Metrics: Total annual enrollments, active vs. non-active members, and marital status insights.
 
 Geographic Trends: Top 5 states and cities by enrollment, with missing location data enriched using Python.
 
