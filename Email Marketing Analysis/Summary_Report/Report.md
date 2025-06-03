@@ -1,4 +1,4 @@
-#Email Marketing Analysis 
+# Email Marketing Analysis 
 
 This Power BI dashboard provides a comprehensive analysis of email marketing enrollments from 2017 to 2020, offering insights into enrollment trends, member activity, demographics, and geographic distributions. The dashboard integrates interactive filtering and dynamic visualizations to support data-driven marketing strategies.
 
