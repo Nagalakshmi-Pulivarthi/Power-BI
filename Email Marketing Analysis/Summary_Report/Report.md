@@ -1,4 +1,4 @@
-# Email Marketing Analysis -### [Dashboard](https://github.com/Nagalakshmi-Pulivarthi/Power-BI/blob/main/Email%20Marketing%20Analysis/Vizs/Email%20Marketing_Viz.pdf)
+## Email Marketing Analysis -[Dashboard](https://github.com/Nagalakshmi-Pulivarthi/Power-BI/blob/main/Email%20Marketing%20Analysis/Vizs/Email%20Marketing_Viz.pdf)
 
 This project is my first step into Power BI, applying concepts from my PL-300 exam preparation to analyze a random dataset from YouTube. I took an independent approach—enriching missing city/state data with Python, structuring age hierarchies, and creating KPIs for deeper insights. This hands-on experience strengthened my skills in data preparation, modeling, visualization, and interactivity, helping me build a portfolio that showcases my technical problem-solving abilities.
 
