@@ -16,7 +16,7 @@ Interactive Years Filter (2017–2020) for dynamic exploration.
 [Total Enrollments over the years](https://github.com/Nagalakshmi-Pulivarthi/Power-BI/blob/main/Email%20Marketing%20Analysis/Vizs/EnroolmentsOver%20the%20years.PNG) visualization highlights yearly trends and growth.
 
 2. Membership Status & Engagement
-Active vs. Non-Active Members segmented by enrollment year.
+[Active vs. Non-Active](https://github.com/Nagalakshmi-Pulivarthi/Power-BI/blob/main/Email%20Marketing%20Analysis/Vizs/Marital.PNG) Members segmented by enrollment year.
 
 Enrollment behavior analyzed based on marital status, helping refine audience targeting.
 
