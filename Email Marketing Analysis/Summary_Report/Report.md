@@ -30,12 +30,12 @@ Age Hierarchy: Breakdown of enrollments by birth year and enrollment year.
 
 Peak Enrollment Time Slots: Identifies optimal engagement periods for marketing campaigns.
 
-##Interactivity & Dashboard Functionality
+## Interactivity & Dashboard Functionality
 All visualizations are fully interactive, dynamically responding to the Years Filter selection.
 
 Users can explore enrollment patterns across different age groups, locations, engagement statuses, and marital statuses.
 
-##Key Takeaways
+## Key Takeaways
 Peak Enrollment Year: 2018 recorded the highest enrollment count (5,040 enrollments).
 
 Lowest Enrollment Year: 2017, the first year of data collection, had the lowest enrollment numbers, likely due to initial adoption and awareness.
