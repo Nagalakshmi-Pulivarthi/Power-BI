@@ -1,1 +1,1 @@
-
+Email Marketing Analysis - Power BI Dashboard This project analyzes email marketing enrollments from 2017 to 2020, uncovering trends, engagement metrics, and demographic patterns. Using Power BI, Python, Power Query, and DAX, structured the data, enriched missing values, and built interactive visuals to drive meaningful insights.
