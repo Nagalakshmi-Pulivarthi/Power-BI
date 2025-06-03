@@ -18,7 +18,7 @@ DAX & Power Query Integration: Used for data transformation, dynamic KPI calcula
 
 2017 had the lowest enrollments, marking the initial data collection year.
 
-Male enrollments consistently dominate across all years.
+[Male](https://github.com/Nagalakshmi-Pulivarthi/Power-BI/blob/main/Email%20Marketing%20Analysis/Vizs/EnroolmentsOver%20the%20years.PNG) enrollments consistently dominate across all years.
 
 Enrollment Trends by Household Type:
 
