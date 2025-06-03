@@ -30,6 +30,6 @@ Activity by Marital Status: Married individuals with children are more active th
 
 ## Detailed Report & Visuals
 📂 Full Report: Email Marketing Analysis Summary
-📂 Vizs:[Dashboard Visualizations]([https://github.com/Nagalakshmi-Pulivarthi/Power-BI/blob/main/Email%20Marketing%20Analysis/Vizs/Email%20Marketing_Viz.pdf)
-)
+📂 Vizs:[Dashboard Visualizations](https://github.com/Nagalakshmi-Pulivarthi/Power-BI/blob/main/Email%20Marketing%20Analysis/Vizs/Email%20Marketing_Viz.pdf)
+
 
