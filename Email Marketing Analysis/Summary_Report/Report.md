@@ -1,6 +1,6 @@
 # Email Marketing Analysis 
 
-This Power BI dashboard provides a comprehensive analysis of email marketing enrollments from 2017 to 2020, offering insights into enrollment trends, member activity, demographics, and geographic distributions. The dashboard integrates interactive filtering and dynamic visualizations to support data-driven marketing strategies.
+This project marks my first step into Power BI. I applied concepts from my PL-300 exam preparation to independently analyze a random dataset from YouTube. Instead of following the original video’s approach, I took a different path—generating missing city/state data with Python, defining age hierarchies, and creating KPIs to uncover meaningful insights. This hands-on experience helped me solidify my understanding of data preparation, modeling, visualization, and interactivity, giving me a chance to build a portfolio piece that reflects my technical problem-solving skills.
 
 ## Data Preparation
 The raw dataset contained missing values in the City and State columns, which were processed using Python to enhance geographic insights for analysis.
