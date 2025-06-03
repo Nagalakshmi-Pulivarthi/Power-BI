@@ -14,7 +14,7 @@ Demographics & Behavior: Age hierarchy and peak enrollment time slots to optimiz
 DAX & Power Query Integration: Used for data transformation, dynamic KPI calculations, and filtering.
 
 ## Key Takeaways
-[2018]((https://github.com/Nagalakshmi-Pulivarthi/Power-BI/blob/main/Email%20Marketing%20Analysis/Vizs/2018.PNG)) had the highest enrollments (5,040).
+[2018](https://github.com/Nagalakshmi-Pulivarthi/Power-BI/blob/main/Email%20Marketing%20Analysis/Vizs/2018.PNG) had the highest enrollments (5,040).
 
 2017 had the lowest enrollments, marking the initial data collection year.
 
